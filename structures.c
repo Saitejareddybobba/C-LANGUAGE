@@ -3,7 +3,7 @@
 struct Student
 {
 	int Roll_num;
-	char Student_Name;
+	char Student_Name[30];
 	float Percentage;	
 };
 
