@@ -4,15 +4,15 @@
 
 
 main(){
-  printf("the program starts execution");
+  printf("\nthe program starts execution\n");
   int n;
-  printf("enter an number::");
+  printf("\nenter an number::\n");
   scanf("%d",&n);
-  printf("the program has completed taking user input`");
+  printf("\nthe program has completed taking user input`\n");
   if(n==1){
-    printf("welcome to github");
+    printf("\nwelcome to github\n");
   }
   else{
-    printf("wrong input even the welcome to github");
+    printf("\nwrong input even the welcome to github\n");
   }
 }
